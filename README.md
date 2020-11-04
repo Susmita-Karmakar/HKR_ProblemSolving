@@ -1,2 +1,2 @@
 # HKR_ProblemSolving
-Solutions in C
+Solutions in Python
